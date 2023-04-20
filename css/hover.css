@@ -1,3 +1,7 @@
+dd.zero:hover +div > img{
+    display: block;
+  }
+
 dd.one:hover +div > img{
     display: block;
   }
