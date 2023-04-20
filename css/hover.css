@@ -1,0 +1,44 @@
+dd.one:hover +div > img{
+    display: block;
+  }
+  dd.two:hover +div > img{
+    display: block;
+  }
+
+  dd.three:hover +div > img{
+    display: block;
+  }
+
+  dd.four:hover +div > img{
+    display: block;
+  }
+
+  dd.five:hover +div > img{
+    display: block;
+  }
+
+  dd.six:hover +div > img{
+    display: block;
+  }
+
+  dd.seven:hover +div > img{
+    display: block;
+  }
+
+  dd.eight:hover +div > img{
+    display: block;
+  }
+
+  dd.nine:hover +div > img{
+    display: block;
+  }
+
+  div > img{
+    display: none;
+  }
+
+  .container{
+
+    display: flex;
+    justify-content: center;
+  }
